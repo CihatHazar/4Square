@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">4Square</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="sehirBolge"><font size="14">Sehir veya Bolge Giriniz</font></string>
+
+    <string name="mekanCesidi"><font size="14">Mekan Cesidini Giriniz</font></string>
+
+</resources>
